@@ -1,5 +1,35 @@
 project:
-  title: "norahlouisee.github.io"
+  type: website
 
+website:
+  site-url: "https://norahlouisee.github.io"
+  title: "Norah Kuduk"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - text: Get in touch
+        menu:
+          - icon: linkedin
+            text: LinkedIn
+            href: https://www.linkedin.com/in/norah-kuduk/
+            target: _blank
+          - icon: envelope
+            text: Email
+            href: mailto:norah.kuduk@gmail.com
+          - icon: github
+            text: GitHub
+            href: https://github.com/norahlouisee
+            target: _blank
+
+format:
+  html:
+    page-layout: full
+    sidebar: false
+    theme: cosmo
+    css: styles.css
+    toc: true
 
 

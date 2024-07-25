@@ -1,0 +1,49 @@
+---
+title: "Relevant Coursework"
+---
+
+Here is some information about relevant courses that I have taken at St. Lawrence.
+
+::: {.callout-note collapse="true" title="CS219 - Techniques of Computer Science" appearance="simple"}
+An in-depth look at computing and programming in a high-level language (Java). Introduces more advanced programming problems and more principled programming techniques.
+:::
+
+::: {.callout-note collapse="true" title="CS256 - Data Structures" appearance="simple"}
+An overview of the essential strategies for the organization, retrieval and processing of data. Topics include arrays, lists, stacks, queues, maps, and trees, as well as an introduction to algorithm analysis.
+:::
+
+::: {.callout-note collapse="true" title="CS220 - Computer Organization" appearance="simple"}
+An in-depth look at the underlying organization and architecture of modern computer systems. Topics include data representation, the organization of CPUs including caches and the memory hierarchy, digital circuits, machine language, and an introduction to C and assembly language programming. 
+:::
+
+::: {.callout-note collapse="true" title="CS362 - Algorithm Analysis" appearance="simple"}
+An investigation of core techniques for designing and analyzing algorithms for computational problem-solving. Introduces well-known algorithms for common types of problems, and teaches students to evaluate algorithm efficiency.
+:::
+
+::: {.callout-note collapse="true" title="CS/DATA345 - Database Systems" appearance="simple"}
+A look at how data is logically organized, physically stored on a digital device, and queried. Focuses primarily on relational database systems and structured queries. Other topics include non-relational data models, privacy, security, performance, and reliability. 
+:::
+
+::: {.callout-note collapse="true" title="CS/STAT345 - Statistical & Machine Learning" appearance="simple"}
+Introduces techniques for developing advanced models from datasets, for the purposes of better understanding the data and making predictions about future data. Techniques include linear and regularized regression, nearest neighbor classification, support vector machines, decision tree ensembles, and neural networks. Examines real-world applications, both successes and failures, the latter of which often involve data with embedded biases. Students will develop both technical and ethical competence in using some of the most powerful computational tools in data science. 
+:::
+
+::: {.callout-note collapse="true" title="STAT213 - Applied Regression Analysis" appearance="simple"}
+A continuation of Statistics 113 intended for students in the physical, social or behavioral sciences. Topics include simple and multiple linear regression, model diagnostics and testing, residual analysis, transformations, indicator variables, variable selection techniques, logistic regression, and analysis of variance. Most methods assume use of a statistical computing package.
+:::
+
+::: {.callout-note collapse="true" title="STAT/DATA234 - Foundations of Data Science" appearance="simple"}
+An introduction to fundamental data science concepts using modern statistical programming languages and software. The course assumes no prior knowledge of programming but a familiarity with basic statistics is required. The course focuses on building essential data science skills such as data manipulation and visualization, basics of programming, string manipulation, and modern data sources (such as web and databases). Emphasis will be placed on building skills applicable to large scale projects.
+:::
+
+::: {.callout-note collapse="true" title="MATH280 - A Bridge to Higher Math" appearance="simple"}
+This course is designed to introduce students to the concepts and methods of higher mathematics. Techniques of mathematical proof are emphasized. Topics include logic, set theory, relations, functions, induction, cardinality, and others selected by the instructor.
+:::
+
+::: {.callout-note collapse="true" title="MATH205 - Multivariable Calculus" appearance="simple"}
+This course extends the fundamental concepts and applications of calculus, such as differentiation, integration, graphical analysis and optimization, to functions of several variables. Additional topics include the gradient vector, parametricequations and series. 
+:::
+
+::: {.callout-note collapse="true" title="MATH217 - Linear Algebra" appearance="simple"}
+A study of finite dimensional linear spaces, systems of linear equations, matrices, determinants, bases, linear transformations, change of bases and eigen values.
+:::

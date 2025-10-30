@@ -1,7 +1,0 @@
----
-title: "Homepage"
----
-
-## About Me
-
-My name is Norah Kuduk, and I am a senior at St. Lawrence University. I am pursuing a double major in Computer Science and Statistics. 

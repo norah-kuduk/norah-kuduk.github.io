@@ -1,0 +1,11 @@
+---
+title: "Projects"
+---
+
+## Interactive Analysis of Formula 1 Qualifying Data
+- **2024-2025, St. Lawrence University**
+- Built a Shiny app for visualizing and comparing Formula 1 telemetry and qualifying sessions.
+- [Code: f1-animate on GitHub](https://github.com/norah-kuduk/f1-animate)
+
+## AI in App Development with Flutter
+- Developed a cross-platform physical therapy app using Flutter and PostgreSQL, containerized with Docker.

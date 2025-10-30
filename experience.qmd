@@ -1,0 +1,21 @@
+---
+title: "Experience"
+---
+
+# Experience
+
+## St. Lawrence University
+**Teaching Assistant & Mentor** | Jan 2023 – May 2025  
+- Assisted in *Techniques of Computer Science* and *Database Systems* courses  
+- Hosted weekly office hours, graded assignments, and reviewed SQL/Java code  
+- Mentored peers in programming, math, and R-based statistics
+
+**Summer Research Fellow** | Jun 2024 – Aug 2024  
+- Developed a physical therapy app through Flutter; containerized PostgreSQL databases  
+- Explored AI integration for software development optimization
+
+## Rivertown Aquatics
+**Swim Coach & Instructor** | 2017 – 2025  
+- Led training sessions and maintained swimmer performance schedules  
+- Emphasized communication, teamwork, and aerobic endurance coaching
+- Organized swim meets and managed event logistics

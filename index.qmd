@@ -1,0 +1,19 @@
+---
+title: "About"
+---
+
+# Norah Kuduk
+
+Welcome! I am a data scientist with a strong background in computer science and statistics. As a recent graduate of St. Lawrence University, I've developed academic mentoring expertise as a Teaching Assistant and Quantitative Resource Center Mentor. I enjoy making complex technical concepts accessible, and my passion lies at the intersection of analytics and sports.
+
+**Education**
+
+- MSc Data Science, London School of Economics (2025–26)
+
+- BS Computer Science & Statistics, St. Lawrence University (2021–25)
+
+**Skills:**  
+
+Java, Python, R, SQL, Shiny, Flutter, Docker, Data Visualization
+
+[LinkedIn](https://www.linkedin.com/in/norah-kuduk/)  

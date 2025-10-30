@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Norah Kuduk"
+  navbar:
+    left:
+      - text: "About"
+        href: index.html
+      - text: "Projects"
+        href: projects.html
+      - text: "Experience"
+        href: experience.html
+      - text: "Contact"
+        href: contact.html
+  favicon: images/favicon.png   # (optional)
+
+format:
+  html:
+    theme: cosmo    # Or "journal", "flatly", or your choice
+    css: styles.css # (optional)

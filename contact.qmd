@@ -1,0 +1,7 @@
+---
+title: "Contact"
+---
+
+- Email: norah.kuduk@example.com
+- LinkedIn: [linkedin.com/in/norah-kuduk](https://www.linkedin.com/in/norah-kuduk/)
+- GitHub: [github.com/norah-kuduk](https://github.com/norah-kuduk)

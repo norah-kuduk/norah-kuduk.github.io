@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://norah-kuduk.github.io/index.html</loc>
-    <lastmod>2024-07-25T15:25:29.820Z</lastmod>
+    <loc>https://norah-kuduk.github.io/projects.html</loc>
+    <lastmod>2025-10-30T23:46:13.765Z</lastmod>
+  </url>
+  <url>
+    <loc>https://norah-kuduk.github.io/contact.html</loc>
+    <lastmod>2025-10-30T23:46:13.759Z</lastmod>
   </url>
   <url>
     <loc>https://norah-kuduk.github.io/coursework.html</loc>
-    <lastmod>2024-07-25T15:25:29.820Z</lastmod>
+    <lastmod>2025-10-30T23:46:13.759Z</lastmod>
+  </url>
+  <url>
+    <loc>https://norah-kuduk.github.io/index.html</loc>
+    <lastmod>2025-10-30T23:46:13.765Z</lastmod>
+  </url>
+  <url>
+    <loc>https://norah-kuduk.github.io/experience.html</loc>
+    <lastmod>2025-10-30T23:46:13.765Z</lastmod>
   </url>
 </urlset>

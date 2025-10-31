@@ -4,21 +4,21 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "2024-2025, St. Lawrence University\nBuilt a Shiny app for visualizing and comparing Formula 1 telemetry and qualifying sessions.\nCode: f1-animate on GitHub"
+    "text": "2024-2025, St. Lawrence University\n\nDeveloped an interactive Shiny application to analyze telemetry and qualifying data from Formula 1 races during the 2018 to 2024 seasons.\n\nThe project enables users to compare two drivers within the same race or track a single driver across different seasons.\n\nUsers can explore qualifying lap times and track performance metrics through customizable visualizations, enhancing engagement with complex motorsport data.\n\nTechnologies used include R, R Shiny, and advanced data visualization techniques.\n\nSource code is available on GitHub: f1-animate"
   },
   {
     "objectID": "projects.html#interactive-analysis-of-formula-1-qualifying-data",
     "href": "projects.html#interactive-analysis-of-formula-1-qualifying-data",
     "title": "Projects",
     "section": "",
-    "text": "2024-2025, St. Lawrence University\nBuilt a Shiny app for visualizing and comparing Formula 1 telemetry and qualifying sessions.\nCode: f1-animate on GitHub"
+    "text": "2024-2025, St. Lawrence University\n\nDeveloped an interactive Shiny application to analyze telemetry and qualifying data from Formula 1 races during the 2018 to 2024 seasons.\n\nThe project enables users to compare two drivers within the same race or track a single driver across different seasons.\n\nUsers can explore qualifying lap times and track performance metrics through customizable visualizations, enhancing engagement with complex motorsport data.\n\nTechnologies used include R, R Shiny, and advanced data visualization techniques.\n\nSource code is available on GitHub: f1-animate"
   },
   {
     "objectID": "projects.html#ai-in-app-development-with-flutter",
     "href": "projects.html#ai-in-app-development-with-flutter",
     "title": "Projects",
     "section": "AI in App Development with Flutter",
-    "text": "AI in App Development with Flutter\n\nDeveloped a cross-platform physical therapy app using Flutter and PostgreSQL, containerized with Docker."
+    "text": "AI in App Development with Flutter\n\nDeveloped a cross-platform physical therapy app aimed at athletes and individuals managing chronic injuries.\n\nThe app includes scheduling and calendar views for therapy routines, providing a robust set of standard exercises plus user customization options.\n\nBuilt using Flutter and Dart for a responsive, user-friendly interface across platforms.\n\nUtilized a PostgreSQL database deployed in a Docker container for managing exercise data, routine configurations, and user progress.\n\nServer-side endpoints facilitate interaction with the database, ensuring efficient data handling.\n\nIntegrated AI tools like ChatGPT and GitHub Copilot to assist with coding, debugging, and problem-solving during development.\n\nDesigned a relational data model for storing exercises, routines, repetitions, and customizations.\n\nThis project reflects modern AI-augmented software development and cross-platform design trends in health technology."
   },
   {
     "objectID": "contact.html",
@@ -39,14 +39,14 @@
     "href": "index.html",
     "title": "About",
     "section": "",
-    "text": "Norah Kuduk\nWelcome! I am a data scientist with a strong background in computer science and statistics. As a recent graduate of St. Lawrence University, I’ve developed academic mentoring expertise as a Teaching Assistant and Quantitative Resource Center Mentor. I enjoy making complex technical concepts accessible, and my passion lies at the intersection of analytics and sports.\nEducation\n\nMSc Data Science, London School of Economics (2025–26)\nBS Computer Science & Statistics, St. Lawrence University (2021–25)\n\nSkills:\nJava, Python, R, SQL, Shiny, Flutter, Docker, Data Visualization\nLinkedIn"
+    "text": "Norah Kuduk\nWelcome! I am a data scientist with a strong background in computer science and statistics. As a recent graduate of St. Lawrence University, I’ve developed academic mentoring expertise as a Teaching Assistant and Quantitative Resource Center Mentor. I enjoy making complex technical concepts accessible, and my passion lies at the intersection of analytics and sports.\nEducation\n\nMSc Data Science, London School of Economics (2025–26)\nBS Computer Science & Statistics, St. Lawrence University (2021–25)\n\nSkills:\nJava, Python, R, SQL, Shiny, Flutter, Docker, Data Visualization, Machine Learning\nMy Links: GitHub LinkedIn"
   },
   {
     "objectID": "experience.html",
     "href": "experience.html",
     "title": "Experience",
     "section": "",
-    "text": "Teaching Assistant & Mentor | Jan 2023 – May 2025\n- Assisted in Techniques of Computer Science and Database Systems courses\n- Hosted weekly office hours, graded assignments, and reviewed SQL/Java code\n- Mentored peers in programming, math, and R-based statistics\nSummer Research Fellow | Jun 2024 – Aug 2024\n- Developed a physical therapy app through Flutter; containerized PostgreSQL databases\n- Explored AI integration for software development optimization\n\n\n\nSwim Coach & Instructor | 2017 – 2025\n- Led training sessions and maintained swimmer performance schedules\n- Emphasized communication, teamwork, and aerobic endurance coaching - Organized swim meets and managed event logistics"
+    "text": "Teaching Assistant & Mentor | Jan 2023 – May 2025\n- Assisted in Techniques of Computer Science and Database Systems courses\n- Hosted weekly office hours, graded assignments, and reviewed SQL/Java code\n- Mentored peers in programming, math, and R-based statistics\nSummer Research Fellow | Jun 2024 – Aug 2024\n- Developed a physical therapy app through Flutter; containerized PostgreSQL databases\n- Explored AI integration for software development optimization"
   },
   {
     "objectID": "experience.html#st.-lawrence-university",
@@ -59,7 +59,7 @@
     "objectID": "experience.html#rivertown-aquatics",
     "href": "experience.html#rivertown-aquatics",
     "title": "Experience",
-    "section": "",
-    "text": "Swim Coach & Instructor | 2017 – 2025\n- Led training sessions and maintained swimmer performance schedules\n- Emphasized communication, teamwork, and aerobic endurance coaching - Organized swim meets and managed event logistics"
+    "section": "Rivertown Aquatics",
+    "text": "Rivertown Aquatics\nSwim Coach & Instructor | 2017 – 2025\n- Led training sessions and maintained swimmer performance schedules\n- Emphasized communication, teamwork, and aerobic endurance coaching - Organized swim meets and managed event logistics"
   }
 ]

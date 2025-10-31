@@ -3,9 +3,20 @@ title: "Projects"
 ---
 
 ## Interactive Analysis of Formula 1 Qualifying Data
-- **2024-2025, St. Lawrence University**
-- Built a Shiny app for visualizing and comparing Formula 1 telemetry and qualifying sessions.
-- [Code: f1-animate on GitHub](https://github.com/norah-kuduk/f1-animate)
+- **2024-2025, St. Lawrence University**  
+- Developed an interactive Shiny application to analyze telemetry and qualifying data from Formula 1 races during the 2018 to 2024 seasons.  
+- The project enables users to compare two drivers within the same race or track a single driver across different seasons.  
+- Users can explore qualifying lap times and track performance metrics through customizable visualizations, enhancing engagement with complex motorsport data.  
+- Technologies used include R, R Shiny, and advanced data visualization techniques.  
+- Source code is available on GitHub: [f1-animate](https://github.com/norah-kuduk/f1-animate)
 
 ## AI in App Development with Flutter
-- Developed a cross-platform physical therapy app using Flutter and PostgreSQL, containerized with Docker.
+- Developed a cross-platform physical therapy app aimed at athletes and individuals managing chronic injuries.  
+- The app includes scheduling and calendar views for therapy routines, providing a robust set of standard exercises plus user customization options.  
+- Built using Flutter and Dart for a responsive, user-friendly interface across platforms.  
+- Utilized a PostgreSQL database deployed in a Docker container for managing exercise data, routine configurations, and user progress.  
+- Server-side endpoints facilitate interaction with the database, ensuring efficient data handling.  
+- Integrated AI tools like ChatGPT and GitHub Copilot to assist with coding, debugging, and problem-solving during development.  
+- Designed a relational data model for storing exercises, routines, repetitions, and customizations.  
+- This project reflects modern AI-augmented software development and cross-platform design trends in health technology.
+

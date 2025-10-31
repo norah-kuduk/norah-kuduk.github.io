@@ -14,6 +14,8 @@ Welcome! I am a data scientist with a strong background in computer science and 
 
 **Skills:**  
 
-Java, Python, R, SQL, Shiny, Flutter, Docker, Data Visualization
+Java, Python, R, SQL, Shiny, Flutter, Docker, Data Visualization, Machine Learning
 
+**My Links:**
+[GitHub](https://github.com/norah-kuduk)
 [LinkedIn](https://www.linkedin.com/in/norah-kuduk/)  

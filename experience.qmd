@@ -2,8 +2,6 @@
 title: "Experience"
 ---
 
-# Experience
-
 ## St. Lawrence University
 **Teaching Assistant & Mentor** | Jan 2023 – May 2025  
 - Assisted in *Techniques of Computer Science* and *Database Systems* courses  

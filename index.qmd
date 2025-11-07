@@ -35,5 +35,4 @@ BSc in Computer Science and Statistics | Aug 2021 - May 2025
 
 Java, Python, R, SQL, Shiny, Flutter, Docker, Data Visualization, Machine Learning
 
-
 :::

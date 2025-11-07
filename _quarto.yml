@@ -18,5 +18,5 @@ website:
 
 format:
   html:
-    theme: cosmo    # Or "journal", "flatly", or your choice
+    theme: flatly    # Or "journal", "flatly", or your choice
     css: styles.css # (optional)

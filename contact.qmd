@@ -1,7 +1,7 @@
 ---
-title: "Contact"
+title: "Contact Me"
 ---
 
-- Email: norah.kuduk@example.com
+- Email: [norah.kuduk@gmail.com](mailto:norah.kuduk@gmail.com)
 - LinkedIn: [linkedin.com/in/norah-kuduk](https://www.linkedin.com/in/norah-kuduk/)
 - GitHub: [github.com/norah-kuduk](https://github.com/norah-kuduk)

@@ -1,21 +1,39 @@
 ---
-title: "About"
+title: "Norah Kuduk"
+about:
+  id: hero-heading
+  template: trestles
+  image: profile.jpeg
+  image-width: 10em
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/norah-kuduk
+    - icon: github
+      text: Github
+      href: https://github.com/norah-kuduk
 ---
 
-# Norah Kuduk
+:::{#hero-heading}
 
-Welcome! I am a data scientist with a strong background in computer science and statistics. As a recent graduate of St. Lawrence University, I've developed academic mentoring expertise as a Teaching Assistant and Quantitative Resource Center Mentor. I enjoy making complex technical concepts accessible, and my passion lies at the intersection of analytics and sports.
+Welcome! I am a data scientist with a strong background in computer science and statistics. 
 
-**Education**
+As a recent graduate of St. Lawrence University, I've developed academic mentoring expertise as a Teaching Assistant and Quantitative Resource Center Mentor. In addition, I have developed my communication and work ethic working as a swim coach, lifeguard, and water safety instructor. I am currently pursuing a MSc in Data Science at the London School of Economics and Political Science, with a graduation date of September 2026. I enjoy making complex technical concepts accessible, and my passion lies at the intersection of analytics and sports. 
 
-- MSc Data Science, London School of Economics (2025–26)
+## Education
 
-- BS Computer Science & Statistics, St. Lawrence University (2021–25)
+**The London School of Economics and Political Science** | London, UK
 
-**Skills:**  
+MSc in Data Science | Sept 2025 - Sept 2026
+
+**St. Lawrence University** | Canton, NY, USA
+
+BSc in Computer Science and Statistics | Aug 2021 - May 2025
+
+## Skills
 
 Java, Python, R, SQL, Shiny, Flutter, Docker, Data Visualization, Machine Learning
 
-**My Links:**
-[GitHub](https://github.com/norah-kuduk)
-[LinkedIn](https://www.linkedin.com/in/norah-kuduk/)  
+
+:::

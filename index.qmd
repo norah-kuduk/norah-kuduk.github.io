@@ -14,25 +14,27 @@ about:
       text: Github
       href: https://github.com/norah-kuduk
 ---
-
 :::{#hero-heading}
+I build data-driven tools and models that turn complex information into clearer insights, with a particular passion for sports and insights analytics. I hold a BSc in Computer Science and Statistics from St. Lawrence University and am completing an MSc in Data Science at the London School of Economics and Political Science (graduating September 2026).
 
-Welcome! I am a data scientist with a strong background in computer science and statistics. 
+My project work spans interactive Shiny applications for F1 telemetry, graph neural networks for urban bike-share demand forecasting, and distributed machine learning pipelines on GCP — giving me hands-on experience across the full data science stack, from wrangling messy real-world data to deploying scalable models.
 
-As a recent graduate of St. Lawrence University, I've developed academic mentoring expertise as a Teaching Assistant and Quantitative Resource Center Mentor. In addition, I have developed my communication and work ethic working as a swim coach, lifeguard, and water safety instructor. I am currently pursuing a MSc in Data Science at the London School of Economics and Political Science, with a graduation date of September 2026. I enjoy making complex technical concepts accessible, and my passion lies at the intersection of analytics and sports. 
+I'm drawn to roles in customer insights and data science where I can work as part of a  team to uncover patterns in real-world data and translate them into decisions that matter.
+
+Outside of technical work, I've sharpened my ability to communicate quantitative ideas clearly through academic mentoring and coaching, skills I can bring directly into cross-functional teams.
+
+If anything here interests you, feel free to reach out!
 
 ## Education
-
 **The London School of Economics and Political Science** | London, UK
-
-MSc in Data Science | Sept 2025 - Sept 2026
+MSc in Data Science | Sept 2025 – Sept 2026
 
 **St. Lawrence University** | Canton, NY, USA
-
-BSc in Computer Science and Statistics | Aug 2021 - May 2025
+BSc in Computer Science and Statistics | Aug 2021 – May 2025
 
 ## Skills
-
-Java, Python, R, SQL, Shiny, Flutter, Docker, Data Visualization, Machine Learning
-
+**Languages:** Python, R, Java, SQL
+**ML & Analytics:** PyTorch, Apache Spark MLlib, Scikit-learn, Machine Learning, Deep Learning
+**Visualisation:** Shiny, Plotly, Seaborn, ggplot2, Tableau, PowerBI
+**Tools & Infrastructure:** Docker, PostgreSQL, GCP, Flutter, Git
 :::

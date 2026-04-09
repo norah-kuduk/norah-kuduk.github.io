@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.9.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Projects – Norah Kuduk</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -33,15 +36,16 @@ ul.task-list li input[type="checkbox"] {
 <link href="./images/favicon.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-960d9d362f81d399278ec3e29b622b37.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-f7919f14b89ae9a431cba0b331f0b52b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/quarto-contrib/fontawesome6-6.7.2/all.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/fontawesome6-6.7.2/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,7 +75,8 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="styles/styles.css">
+<link rel="stylesheet" href="styles/projects.css">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -81,8 +86,6 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Norah Kuduk</span>
     </a>
@@ -143,44 +146,33 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="interactive-analysis-of-formula-1-qualifying-data" class="level2">
-<h2 class="anchored" data-anchor-id="interactive-analysis-of-formula-1-qualifying-data">Interactive Analysis of Formula 1 Qualifying Data</h2>
-<ul>
-<li><strong>2024-2025, St.&nbsp;Lawrence University</strong><br>
-</li>
-<li>Developed an interactive Shiny application to analyze telemetry and qualifying data from Formula 1 races during the 2018 to 2024 seasons.<br>
-</li>
-<li>The project enables users to compare two drivers within the same race or track a single driver across different seasons.<br>
-</li>
-<li>Users can explore qualifying lap times and track performance metrics through customizable visualizations, enhancing engagement with complex motorsport data.<br>
-</li>
-<li>Technologies used include R, R Shiny, and advanced data visualization techniques.<br>
-</li>
-<li>Source code is available on GitHub: <a href="https://github.com/norah-kuduk/f1-animate">f1-animate</a></li>
-</ul>
+<div class="project-card">
+<div class="project-header">
+<section id="interactive-f1-qualifying-analysis" class="level3 project-title-block">
+<h3 class="anchored" data-anchor-id="interactive-f1-qualifying-analysis">Interactive F1 Qualifying Analysis</h3>
+<p><span class="project-meta">St.&nbsp;Lawrence University · 2024–2025</span></p>
 </section>
-<section id="ai-in-app-development-with-flutter" class="level2">
-<h2 class="anchored" data-anchor-id="ai-in-app-development-with-flutter">AI in App Development with Flutter</h2>
-<ul>
-<li>Developed a cross-platform physical therapy app aimed at athletes and individuals managing chronic injuries.<br>
-</li>
-<li>The app includes scheduling and calendar views for therapy routines, providing a robust set of standard exercises plus user customization options.<br>
-</li>
-<li>Built using Flutter and Dart for a responsive, user-friendly interface across platforms.<br>
-</li>
-<li>Utilized a PostgreSQL database deployed in a Docker container for managing exercise data, routine configurations, and user progress.<br>
-</li>
-<li>Server-side endpoints facilitate interaction with the database, ensuring efficient data handling.<br>
-</li>
-<li>Integrated AI tools like ChatGPT and GitHub Copilot to assist with coding, debugging, and problem-solving during development.<br>
-</li>
-<li>Designed a relational data model for storing exercises, routines, repetitions, and customizations.<br>
-</li>
-<li>This project reflects modern AI-augmented software development and cross-platform design trends in health technology.</li>
-</ul>
+<div class="project-tags">
+<p><span class="tag">R</span> <span class="tag">Shiny</span> <span class="tag">Data Viz</span></p>
+</div>
+</div>
+<p>Built an interactive Shiny application for exploring F1 telemetry and qualifying data across the 2018–2024 seasons. Users can compare two drivers head-to-head within a race or track a single driver’s performance over time through customizable, publication-quality visualizations.</p>
+<p><a href="https://github.com/norah-kuduk/f1-animate" class="project-link"><i class="fa-brands fa-github" aria-label="github"></i> f1-animate</a></p>
+</div>
+<div class="project-card">
+<div class="project-header">
+<section id="ai-augmented-physical-therapy-app" class="level3 project-title-block">
+<h3 class="anchored" data-anchor-id="ai-augmented-physical-therapy-app">AI-Augmented Physical Therapy App</h3>
+<p><span class="project-meta">Cross-platform · Flutter &amp; Dart</span></p>
+</section>
+<div class="project-tags">
+<p><span class="tag">Flutter</span> <span class="tag">PostgreSQL</span> <span class="tag">Docker</span></p>
+</div>
+</div>
+<p>Developed a cross-platform app for athletes and individuals managing chronic injuries, featuring scheduling, calendar views, and a customizable exercise library. Designed a relational data model for exercises, routines, and user progress, backed by a PostgreSQL database in Docker. Leveraged AI-assisted development workflows (ChatGPT, GitHub Copilot) throughout the build.</p>
+</div>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

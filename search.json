@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "2024-2025, St. Lawrence University\n\nDeveloped an interactive Shiny application to analyze telemetry and qualifying data from Formula 1 races during the 2018 to 2024 seasons.\n\nThe project enables users to compare two drivers within the same race or track a single driver across different seasons.\n\nUsers can explore qualifying lap times and track performance metrics through customizable visualizations, enhancing engagement with complex motorsport data.\n\nTechnologies used include R, R Shiny, and advanced data visualization techniques.\n\nSource code is available on GitHub: f1-animate"
-  },
-  {
-    "objectID": "projects.html#interactive-analysis-of-formula-1-qualifying-data",
-    "href": "projects.html#interactive-analysis-of-formula-1-qualifying-data",
-    "title": "Projects",
-    "section": "",
-    "text": "2024-2025, St. Lawrence University\n\nDeveloped an interactive Shiny application to analyze telemetry and qualifying data from Formula 1 races during the 2018 to 2024 seasons.\n\nThe project enables users to compare two drivers within the same race or track a single driver across different seasons.\n\nUsers can explore qualifying lap times and track performance metrics through customizable visualizations, enhancing engagement with complex motorsport data.\n\nTechnologies used include R, R Shiny, and advanced data visualization techniques.\n\nSource code is available on GitHub: f1-animate"
-  },
-  {
-    "objectID": "projects.html#ai-in-app-development-with-flutter",
-    "href": "projects.html#ai-in-app-development-with-flutter",
-    "title": "Projects",
-    "section": "AI in App Development with Flutter",
-    "text": "AI in App Development with Flutter\n\nDeveloped a cross-platform physical therapy app aimed at athletes and individuals managing chronic injuries.\n\nThe app includes scheduling and calendar views for therapy routines, providing a robust set of standard exercises plus user customization options.\n\nBuilt using Flutter and Dart for a responsive, user-friendly interface across platforms.\n\nUtilized a PostgreSQL database deployed in a Docker container for managing exercise data, routine configurations, and user progress.\n\nServer-side endpoints facilitate interaction with the database, ensuring efficient data handling.\n\nIntegrated AI tools like ChatGPT and GitHub Copilot to assist with coding, debugging, and problem-solving during development.\n\nDesigned a relational data model for storing exercises, routines, repetitions, and customizations.\n\nThis project reflects modern AI-augmented software development and cross-platform design trends in health technology."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Me",
-    "section": "",
-    "text": "Email: norah.kuduk@gmail.com\nLinkedIn: linkedin.com/in/norah-kuduk\nGitHub: github.com/norah-kuduk"
-  },
-  {
-    "objectID": "coursework.html",
-    "href": "coursework.html",
-    "title": "Relevant Coursework",
-    "section": "",
-    "text": "Here is some information about relevant courses that I have taken at St. Lawrence.\n\n\n\n\n\n\nNoteCS219 - Techniques of Computer Science\n\n\n\n\n\nAn in-depth look at computing and programming in a high-level language (Java). Introduces more advanced programming problems and more principled programming techniques.\n\n\n\n\n\n\n\n\n\nNoteCS256 - Data Structures\n\n\n\n\n\nAn overview of the essential strategies for the organization, retrieval and processing of data. Topics include arrays, lists, stacks, queues, maps, and trees, as well as an introduction to algorithm analysis.\n\n\n\n\n\n\n\n\n\nNoteCS220 - Computer Organization\n\n\n\n\n\nAn in-depth look at the underlying organization and architecture of modern computer systems. Topics include data representation, the organization of CPUs including caches and the memory hierarchy, digital circuits, machine language, and an introduction to C and assembly language programming.\n\n\n\n\n\n\n\n\n\nNoteCS362 - Algorithm Analysis\n\n\n\n\n\nAn investigation of core techniques for designing and analyzing algorithms for computational problem-solving. Introduces well-known algorithms for common types of problems, and teaches students to evaluate algorithm efficiency.\n\n\n\n\n\n\n\n\n\nNoteCS/DATA345 - Database Systems\n\n\n\n\n\nA look at how data is logically organized, physically stored on a digital device, and queried. Focuses primarily on relational database systems and structured queries. Other topics include non-relational data models, privacy, security, performance, and reliability.\n\n\n\n\n\n\n\n\n\nNoteCS/STAT345 - Statistical & Machine Learning\n\n\n\n\n\nIntroduces techniques for developing advanced models from datasets, for the purposes of better understanding the data and making predictions about future data. Techniques include linear and regularized regression, nearest neighbor classification, support vector machines, decision tree ensembles, and neural networks. Examines real-world applications, both successes and failures, the latter of which often involve data with embedded biases. Students will develop both technical and ethical competence in using some of the most powerful computational tools in data science.\n\n\n\n\n\n\n\n\n\nNoteSTAT213 - Applied Regression Analysis\n\n\n\n\n\nA continuation of Statistics 113 intended for students in the physical, social or behavioral sciences. Topics include simple and multiple linear regression, model diagnostics and testing, residual analysis, transformations, indicator variables, variable selection techniques, logistic regression, and analysis of variance. Most methods assume use of a statistical computing package.\n\n\n\n\n\n\n\n\n\nNoteSTAT/DATA234 - Foundations of Data Science\n\n\n\n\n\nAn introduction to fundamental data science concepts using modern statistical programming languages and software. The course assumes no prior knowledge of programming but a familiarity with basic statistics is required. The course focuses on building essential data science skills such as data manipulation and visualization, basics of programming, string manipulation, and modern data sources (such as web and databases). Emphasis will be placed on building skills applicable to large scale projects.\n\n\n\n\n\n\n\n\n\nNoteMATH280 - A Bridge to Higher Math\n\n\n\n\n\nThis course is designed to introduce students to the concepts and methods of higher mathematics. Techniques of mathematical proof are emphasized. Topics include logic, set theory, relations, functions, induction, cardinality, and others selected by the instructor.\n\n\n\n\n\n\n\n\n\nNoteMATH205 - Multivariable Calculus\n\n\n\n\n\nThis course extends the fundamental concepts and applications of calculus, such as differentiation, integration, graphical analysis and optimization, to functions of several variables. Additional topics include the gradient vector, parametricequations and series.\n\n\n\n\n\n\n\n\n\nNoteMATH217 - Linear Algebra\n\n\n\n\n\nA study of finite dimensional linear spaces, systems of linear equations, matrices, determinants, bases, linear transformations, change of bases and eigen values."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Norah Kuduk",
@@ -56,6 +21,20 @@
     "text": "Java, Python, R, SQL, Shiny, Flutter, Docker, Data Visualization, Machine Learning"
   },
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Interactive F1 Qualifying Analysis\nSt. Lawrence University · 2024–2025\n\n\nR Shiny Data Viz\n\n\nBuilt an interactive Shiny application for exploring F1 telemetry and qualifying data across the 2018–2024 seasons. Users can compare two drivers head-to-head within a race or track a single driver’s performance over time through customizable, publication-quality visualizations.\n f1-animate\n\n\n\n\nAI-Augmented Physical Therapy App\nCross-platform · Flutter & Dart\n\n\nFlutter PostgreSQL Docker\n\n\nDeveloped a cross-platform app for athletes and individuals managing chronic injuries, featuring scheduling, calendar views, and a customizable exercise library. Designed a relational data model for exercises, routines, and user progress, backed by a PostgreSQL database in Docker. Leveraged AI-assisted development workflows (ChatGPT, GitHub Copilot) throughout the build."
+  },
+  {
+    "objectID": "coursework.html",
+    "href": "coursework.html",
+    "title": "Relevant Coursework",
+    "section": "",
+    "text": "Here is some information about relevant courses that I have taken at St. Lawrence.\n\n\n\n\n\n\nNoteCS219 - Techniques of Computer Science\n\n\n\n\n\nAn in-depth look at computing and programming in a high-level language (Java). Introduces more advanced programming problems and more principled programming techniques.\n\n\n\n\n\n\n\n\n\nNoteCS256 - Data Structures\n\n\n\n\n\nAn overview of the essential strategies for the organization, retrieval and processing of data. Topics include arrays, lists, stacks, queues, maps, and trees, as well as an introduction to algorithm analysis.\n\n\n\n\n\n\n\n\n\nNoteCS220 - Computer Organization\n\n\n\n\n\nAn in-depth look at the underlying organization and architecture of modern computer systems. Topics include data representation, the organization of CPUs including caches and the memory hierarchy, digital circuits, machine language, and an introduction to C and assembly language programming.\n\n\n\n\n\n\n\n\n\nNoteCS362 - Algorithm Analysis\n\n\n\n\n\nAn investigation of core techniques for designing and analyzing algorithms for computational problem-solving. Introduces well-known algorithms for common types of problems, and teaches students to evaluate algorithm efficiency.\n\n\n\n\n\n\n\n\n\nNoteCS/DATA345 - Database Systems\n\n\n\n\n\nA look at how data is logically organized, physically stored on a digital device, and queried. Focuses primarily on relational database systems and structured queries. Other topics include non-relational data models, privacy, security, performance, and reliability.\n\n\n\n\n\n\n\n\n\nNoteCS/STAT345 - Statistical & Machine Learning\n\n\n\n\n\nIntroduces techniques for developing advanced models from datasets, for the purposes of better understanding the data and making predictions about future data. Techniques include linear and regularized regression, nearest neighbor classification, support vector machines, decision tree ensembles, and neural networks. Examines real-world applications, both successes and failures, the latter of which often involve data with embedded biases. Students will develop both technical and ethical competence in using some of the most powerful computational tools in data science.\n\n\n\n\n\n\n\n\n\nNoteSTAT213 - Applied Regression Analysis\n\n\n\n\n\nA continuation of Statistics 113 intended for students in the physical, social or behavioral sciences. Topics include simple and multiple linear regression, model diagnostics and testing, residual analysis, transformations, indicator variables, variable selection techniques, logistic regression, and analysis of variance. Most methods assume use of a statistical computing package.\n\n\n\n\n\n\n\n\n\nNoteSTAT/DATA234 - Foundations of Data Science\n\n\n\n\n\nAn introduction to fundamental data science concepts using modern statistical programming languages and software. The course assumes no prior knowledge of programming but a familiarity with basic statistics is required. The course focuses on building essential data science skills such as data manipulation and visualization, basics of programming, string manipulation, and modern data sources (such as web and databases). Emphasis will be placed on building skills applicable to large scale projects.\n\n\n\n\n\n\n\n\n\nNoteMATH280 - A Bridge to Higher Math\n\n\n\n\n\nThis course is designed to introduce students to the concepts and methods of higher mathematics. Techniques of mathematical proof are emphasized. Topics include logic, set theory, relations, functions, induction, cardinality, and others selected by the instructor.\n\n\n\n\n\n\n\n\n\nNoteMATH205 - Multivariable Calculus\n\n\n\n\n\nThis course extends the fundamental concepts and applications of calculus, such as differentiation, integration, graphical analysis and optimization, to functions of several variables. Additional topics include the gradient vector, parametricequations and series.\n\n\n\n\n\n\n\n\n\nNoteMATH217 - Linear Algebra\n\n\n\n\n\nA study of finite dimensional linear spaces, systems of linear equations, matrices, determinants, bases, linear transformations, change of bases and eigen values.\n\n\n\n\n\n\n\n\n\nNoteMATH217 - Linear Algebra\n\n\n\n\n\nA study of finite dimensional linear spaces, systems of linear equations, matrices, determinants, bases, linear transformations, change of bases and eigen values."
+  },
+  {
     "objectID": "experience.html",
     "href": "experience.html",
     "title": "Experience",
@@ -75,5 +54,12 @@
     "title": "Experience",
     "section": "Rivertown Aquatics",
     "text": "Rivertown Aquatics\nSwim Coach & Instructor | 2017 – 2025\n- Led training sessions and maintained swimmer performance schedules\n- Emphasized communication, teamwork, and aerobic endurance coaching - Organized swim meets and managed event logistics"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Me",
+    "section": "",
+    "text": "Email: norah.kuduk@gmail.com\nLinkedIn: linkedin.com/in/norah-kuduk\nGitHub: github.com/norah-kuduk"
   }
 ]

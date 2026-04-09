@@ -47,3 +47,7 @@ This course extends the fundamental concepts and applications of calculus, such 
 ::: {.callout-note collapse="true" title="MATH217 - Linear Algebra" appearance="simple"}
 A study of finite dimensional linear spaces, systems of linear equations, matrices, determinants, bases, linear transformations, change of bases and eigen values.
 :::
+
+::: {.callout-note collapse="true" title="MATH217 - Linear Algebra" appearance="simple"}
+A study of finite dimensional linear spaces, systems of linear equations, matrices, determinants, bases, linear transformations, change of bases and eigen values.
+:::

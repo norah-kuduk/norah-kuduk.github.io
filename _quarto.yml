@@ -19,4 +19,4 @@ website:
 format:
   html:
     theme: flatly    # Or "journal", "flatly", or your choice
-    css: styles.css # (optional)
+    css: styles/styles.css # (optional)

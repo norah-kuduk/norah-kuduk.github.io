@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Norah Kuduk",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Me",
     "section": "",
-    "text": "LinkedIn\n  \n  \n    \n     Github\n  \n\n  \n  \nWelcome! I am a data scientist with a strong background in computer science and statistics.\nAs a recent graduate of St. Lawrence University, I’ve developed academic mentoring expertise as a Teaching Assistant and Quantitative Resource Center Mentor. In addition, I have developed my communication and work ethic working as a swim coach, lifeguard, and water safety instructor. I am currently pursuing a MSc in Data Science at the London School of Economics and Political Science, with a graduation date of September 2026. I enjoy making complex technical concepts accessible, and my passion lies at the intersection of analytics and sports.\n\n\nThe London School of Economics and Political Science | London, UK\nMSc in Data Science | Sept 2025 - Sept 2026\nSt. Lawrence University | Canton, NY, USA\nBSc in Computer Science and Statistics | Aug 2021 - May 2025\n\n\n\nJava, Python, R, SQL, Shiny, Flutter, Docker, Data Visualization, Machine Learning"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Norah Kuduk",
-    "section": "",
-    "text": "The London School of Economics and Political Science | London, UK\nMSc in Data Science | Sept 2025 - Sept 2026\nSt. Lawrence University | Canton, NY, USA\nBSc in Computer Science and Statistics | Aug 2021 - May 2025"
-  },
-  {
-    "objectID": "index.html#skills",
-    "href": "index.html#skills",
-    "title": "Norah Kuduk",
-    "section": "",
-    "text": "Java, Python, R, SQL, Shiny, Flutter, Docker, Data Visualization, Machine Learning"
+    "text": "Email: norah.kuduk@gmail.com\nLinkedIn: linkedin.com/in/norah-kuduk\nGitHub: github.com/norah-kuduk"
   },
   {
     "objectID": "projects.html",
@@ -26,6 +12,27 @@
     "title": "Projects",
     "section": "",
     "text": "Predicting Flight Delay Severity at ORD, JFK & ATL\nDistributed Computing for Big Data · 2026\n\n\nPython Apache Spark MLlib Ensemble Learning GCP\n\n\nFramed flight delay prediction as a four-class severity classification problem (no delay, minor, major, severe/cancellation) using five years of US Bureau of Transportation Statistics data covering ~3.5M flights across three major hub airports. Built and evaluated six model configurations in Apache Spark MLlib — logistic regression, decision tree, and KNN baselines alongside bagging, boosting, and a stacking ensemble — comparing both predictive performance and distributed scalability metrics such as training time, speedup ratio, and memory usage.\n\n\n\n\nPredictive Forecasting of Citi Bike Station Demand in NYC\nDeep Learning · 2026\n\n\nPython Graph Neural Networks PyTorch Spatio-temporal\n\n\nDeveloped deep learning models to forecast hourly bike inflow and outflow at 700+ NYC Citi Bike stations, supporting smarter rebalancing logistics and reducing empty or full-station scenarios. Constructed a spatial graph from station coordinates and flow patterns, then modeled temporal dependencies using GCN, GAT, STGCN, and graph transformer architectures. Incorporated NYC hourly weather data as auxiliary features and benchmarked against LSTM, GRU, and ARIMA baselines across ~30M trip records spanning 2013–2023.\n\n\n\n\nF1 Popularity Growth & Sustainability Analysis\nManagining and Visualising Data · 2025/2026\n\n\nPython Pandas Plotly Seaborn REST APIs\n\n\nInvestigated the relationship between F1’s global popularity growth and its sustainability challenges across multiple decades of race calendar data. Integrated circuit location, attendance, and YouTube engagement data from the official F1 channel to explore how calendar expansion, track tenure, and travel intensity have evolved alongside fan demand. Analysed the impact of Drive to Survive on digital engagement trends and examined whether calendar geography has been optimised in line with F1’s net-zero-by-2030 commitment.\n\n\n\n\nInteractive F1 Qualifying Analysis\nStatistics SYE (Honors) - St. Lawrence University · 2024–2025\n\n\nR Shiny Data Viz\n\n\nBuilt an interactive Shiny application for exploring F1 telemetry and qualifying data across the 2018–2024 seasons. Users can compare two drivers head-to-head within a race or track a single driver’s performance over time through customizable, publication-quality visualizations.\n f1-animate\n\n\n\n\nAI-Augmented Physical Therapy App\nComputer Science SYE (Honors) - St. Lawrence University · 2024–2025\n\n\nFlutter PostgreSQL Docker\n\n\nDeveloped a cross-platform app for athletes and individuals managing chronic injuries, featuring scheduling, calendar views, and a customizable exercise library. Designed a relational data model for exercises, routines, and user progress, backed by a PostgreSQL database in Docker. Leveraged AI-assisted development workflows (ChatGPT, GitHub Copilot) throughout the build."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Norah Kuduk",
+    "section": "",
+    "text": "LinkedIn\n  \n  \n    \n     Github\n  \n\n  \n  \nI build data-driven tools and models that turn complex information into clearer insights, with a particular passion for sports and insights analytics. I hold a BSc in Computer Science and Statistics from St. Lawrence University and am completing an MSc in Data Science at the London School of Economics and Political Science (graduating September 2026).\nMy project work spans interactive Shiny applications for F1 telemetry, graph neural networks for urban bike-share demand forecasting, and distributed machine learning pipelines on GCP — giving me hands-on experience across the full data science stack, from wrangling messy real-world data to deploying scalable models.\nI’m drawn to roles in customer insights and data science where I can work as part of a team to uncover patterns in real-world data and translate them into decisions that matter.\nOutside of technical work, I’ve sharpened my ability to communicate quantitative ideas clearly through academic mentoring and coaching, skills I can bring directly into cross-functional teams.\nIf anything here interests you, feel free to reach out!\n\n\nThe London School of Economics and Political Science | London, UK MSc in Data Science | Sept 2025 – Sept 2026\nSt. Lawrence University | Canton, NY, USA BSc in Computer Science and Statistics | Aug 2021 – May 2025\n\n\n\nLanguages: Python, R, Java, SQL ML & Analytics: PyTorch, Apache Spark MLlib, Scikit-learn, Machine Learning, Deep Learning Visualisation: Shiny, Plotly, Seaborn, ggplot2, Tableau, PowerBI Tools & Infrastructure: Docker, PostgreSQL, GCP, Flutter, Git"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Norah Kuduk",
+    "section": "",
+    "text": "The London School of Economics and Political Science | London, UK MSc in Data Science | Sept 2025 – Sept 2026\nSt. Lawrence University | Canton, NY, USA BSc in Computer Science and Statistics | Aug 2021 – May 2025"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Norah Kuduk",
+    "section": "",
+    "text": "Languages: Python, R, Java, SQL ML & Analytics: PyTorch, Apache Spark MLlib, Scikit-learn, Machine Learning, Deep Learning Visualisation: Shiny, Plotly, Seaborn, ggplot2, Tableau, PowerBI Tools & Infrastructure: Docker, PostgreSQL, GCP, Flutter, Git"
   },
   {
     "objectID": "coursework.html",
@@ -54,12 +61,5 @@
     "title": "Experience",
     "section": "Rivertown Aquatics",
     "text": "Rivertown Aquatics\nSwim Coach & Instructor | 2017 – 2025\n- Led training sessions and maintained swimmer performance schedules\n- Emphasized communication, teamwork, and aerobic endurance coaching - Organized swim meets and managed event logistics"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Me",
-    "section": "",
-    "text": "Email: norah.kuduk@gmail.com\nLinkedIn: linkedin.com/in/norah-kuduk\nGitHub: github.com/norah-kuduk"
   }
 ]

@@ -13,11 +13,14 @@ about:
     - icon: github
       text: Github
       href: https://github.com/norah-kuduk
-    - icon: mail
-      text: Email
-      href: mailto:norah.kuduk@gmail.com
+    - icon: file-earmark-pdf
+      text: Resume
+      href: Norah_Kuduk_Resume.pdf
 ---
 :::{#hero-heading}
+
+*Last updated July 2026 — currently finishing my MSc dissertation at LSE, open to data science and analytics opportunities from September 2026.*
+
 I build data-driven tools and models that turn complex information into clearer insights. I'm completing an MSc in Data Science at the London School of Economics (graduating September 2026), where my dissertation develops an augmented Elo rating system for football match outcome prediction — combining a four-stage optimisation pipeline (backpropagation through time, ISTA, SAGA, cross-validation) to beat canonical Elo on out-of-sample log-loss. I hold a BSc in Computer Science and Statistics from St. Lawrence University.
 
 My broader project work spans Bayesian inference on football league data, interactive Shiny applications for F1 telemetry, graph neural networks for urban mobility forecasting, and distributed ML pipelines on GCP — hands-on experience across the full data science stack, from messy real-world data to deployed models.

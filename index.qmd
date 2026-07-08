@@ -13,17 +13,19 @@ about:
     - icon: github
       text: Github
       href: https://github.com/norah-kuduk
+    - icon: mail
+      text: Email
+      href: mailto:norah.kuduk@gmail.com
 ---
 :::{#hero-heading}
-I build data-driven tools and models that turn complex information into clearer insights, with a particular passion for sports and insights analytics. I hold a BSc in Computer Science and Statistics from St. Lawrence University and am completing an MSc in Data Science at the London School of Economics and Political Science (graduating September 2026).
+I build data-driven tools and models that turn complex information into clearer insights. I'm completing an MSc in Data Science at the London School of Economics (graduating September 2026), where my dissertation develops an augmented Elo rating system for football match outcome prediction — combining a four-stage optimisation pipeline (backpropagation through time, ISTA, SAGA, cross-validation) to beat canonical Elo on out-of-sample log-loss. I hold a BSc in Computer Science and Statistics from St. Lawrence University.
 
-My project work spans interactive Shiny applications for F1 telemetry, graph neural networks for urban bike-share demand forecasting, and distributed machine learning pipelines on GCP — giving me hands-on experience across the full data science stack, from wrangling messy real-world data to deploying scalable models.
+My broader project work spans Bayesian inference on football league data, interactive Shiny applications for F1 telemetry, graph neural networks for urban mobility forecasting, and distributed ML pipelines on GCP — hands-on experience across the full data science stack, from messy real-world data to deployed models.
 
-I'm drawn to roles in customer insights and data science where I can work as part of a  team to uncover patterns in real-world data and translate them into decisions that matter.
-
-Outside of technical work, I've sharpened my ability to communicate quantitative ideas clearly through academic mentoring and coaching, skills I can bring directly into cross-functional teams.
+I'm drawn to data science and analytics roles where I can work as part of a team to uncover patterns in real-world data and translate them into decisions that matter, with a particular interest in sports, betting, and motorsport analytics. Though, I am open to strong opportunities across industries. Outside of technical work, I've sharpened my ability to communicate ideas to different audiences through competitive swim coaching and academic mentoring, skills I can bring directly into a new team.
 
 If anything here interests you, feel free to reach out!
+
 
 ## Education
 **The London School of Economics and Political Science** | London, UK
@@ -33,8 +35,11 @@ MSc in Data Science | Sept 2025 – Sept 2026
 BSc in Computer Science and Statistics | Aug 2021 – May 2025
 
 ## Skills
-**Languages:** Python, R, Java, SQL
-**ML & Analytics:** PyTorch, Apache Spark MLlib, Scikit-learn, Machine Learning, Deep Learning
-**Visualisation:** Shiny, Plotly, Seaborn, ggplot2, Tableau, PowerBI
+**Languages:** Python, Java, SQL, R
+
+**ML & Analytics:** PyTorch, Apache Spark MLlib, Scikit-learn, PySpark, BigQuery, Bayesian Inference, Machine Learning, Deep Learning
+
+**Visualisation:** Shiny, Plotly, Seaborn, ggplot2, Dash, Tableau
+
 **Tools & Infrastructure:** Docker, PostgreSQL, GCP, Flutter, Git
 :::
